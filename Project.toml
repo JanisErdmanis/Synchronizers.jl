@@ -1,0 +1,4 @@
+name = "Synchronizers"
+uuid = "9279c0cf-0ddb-4a8a-93c9-19d312620a08"
+authors = ["akels <akels14@gmail.com>"]
+version = "0.1.0"
