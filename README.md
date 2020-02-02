@@ -1,2 +1,2 @@
-# Synchronizer.jl
+# Synchronizers.jl
 One directional synchronization. 
